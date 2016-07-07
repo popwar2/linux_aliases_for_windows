@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"L",
+				"LOCAL"
+			],
+			[
+				"all",
+				"ALL"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "sas por",
+		"selected_items":
+		[
+			[
+				"sas por",
+				"Set Syntax: SAS Program"
+			],
+			[
+				"sas",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"sas lo",
+				"Set Syntax: SAS Log"
+			],
+			[
+				"sas prom",
+				"Set Syntax: SAS Program"
+			],
+			[
+				"sas pro",
+				"Set Syntax: SAS Program"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sas progra",
+				"Set Syntax: SAS Program"
+			],
+			[
+				"pth",
+				"Set Syntax: Python"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: SFTP Key Bindings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"syn sas",
+				"Set Syntax: SAS Program"
+			],
+			[
+				"syntax sas",
+				"Set Syntax: SAS Program"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list pak",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"print 'hello' ",
+			"print hello ",
+			"print hello",
+			"print",
+			"sclear",
+			"exit",
+			"cls",
+			"clear",
+			"CLEAR",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/linux_aliases_for_windows"
+	],
+	"file_history":
+	[
+		"/C/projects/sas/code/bulk_pmml_generator/get_pmml_scorecard.sas",
+		"/C/projects/sas/data/pmml/scorecard_pmml_example.pmml",
+		"/C/projects/sas/data/pmml/scorecard_model.pmml",
+		"/C/projects/sas/code/pmml/get_pmml_sc_characteristics.sas",
+		"/C/projects/sas/code/svn/svn_delete.log",
+		"/C/projects/sas/code/svn/svn_commit.sas",
+		"/C/projects/sas/code/svn/svn_delete.sas",
+		"/C/projects/sas/code/svn/svn_add.sas",
+		"/C/projects/sas/code/svn/svn_update.sas",
+		"/C/projects/sas/code/svn/svn_commit.log",
+		"/C/projects/sas/code/svn/svn_add.log",
+		"/C/projects/sas/code/os_interactions/execute_os_cmd.sas",
+		"/C/projects/sas/code/os_interactions/get_psep.sas",
+		"/C/projects/TD/1.0.0.0/dev/code/macros/check_num_obs.sas",
+		"/C/projects/sas/code/svn/svn_update.log",
+		"/C/projects/sas/code/pmml/get_pmml_mining_schema.sas",
+		"/C/projects/sas/code/pmml/get_pmml_output_fields.sas",
+		"/C/projects/sas/code/pmml/get_pmml_char_ds.sas",
+		"/C/projects/sas/SAS.sublime-project",
+		"/C/projects/sas/code/pmml/get_pmml_header_open.sas",
+		"/C/projects/sas/code/pmml/get_pmml_data_dictionary.sas",
+		"/C/projects/sas/code/file_conversions/get_sas_program_from_pmml.sas",
+		"/C/projects/sas/data/sas_models/scorecard_pmml.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/get_scorecard_pmml.sas",
+		"/C/projects/sas/code/pmml/get_pmml_close_tags.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/get_scorecard_pmml.log",
+		"/C/projects/sas/code/os_interactions/delete_file.sas",
+		"/C/projects/sas/code/pmml/get_pmml_header_open.log",
+		"/C/projects/sas/code/os_interactions/get_os_type.sas",
+		"/C/projects/sas/code/file_conversions/get_sas_ds_from_excel.sas",
+		"/C/projects/sas/code/os_interactions/file_exist.sas",
+		"/C/projects/sas/code/os_interactions/get_psep.log",
+		"/C/projects/sas/code/os_interactions/file_exist.log",
+		"/C/projects/Bulk_Create_PMML/sas_files/autoexec_pmml.sas",
+		"/C/projects/sas/code/pmml/get_pmml_scorecard_characteristics.sas",
+		"/C/projects/sas/code/pmml/get_pmml_mining_schema.log",
+		"/C/projects/sas/code/stubs/get_pmml_close_tags.sas",
+		"/C/projects/sas/code/os_interactions/get_os_type.log",
+		"/C/projects/sas/code/os_interactions/execute_os_cmd.log",
+		"/C/projects/sas/code/os_interactions/execute_os_cmd.lst",
+		"/C/projects/sas/code/os_interactions/ls.bat",
+		"/C/projects/linux_cmds_for_windows/pwd.bat",
+		"/C/projects/linux_cmds_for_windows/README.md",
+		"/C/projects/sas/.gitignore",
+		"/C/projects/linux_cmds_for_windows/.gitignore",
+		"/C/projects/linux_cmds_for_windows/.gitattributes",
+		"/C/projects/sas/data/input/.readme",
+		"/C/projects/sas/data/output/.readme",
+		"/C/projects/sas/data/sas_models/.readme",
+		"/C/projects/sas/data/pmml/.readme",
+		"/C/projects/sas/logs/.readme",
+		"/C/projects/sas/code/stubs/get_pmml_close_tags.log",
+		"/C/projects/sas/code/stubs/loop_stub_2.sas",
+		"/C/projects/sas/data/pmml/RM_B_score.pmml",
+		"/C/projects/sas/code/stubs/loop_stub.sas",
+		"/C/projects/sas/data/pmml/test_out.pmml",
+		"/C/projects/sas/code/file_conversions/get_sas_ds_from_excel.log",
+		"/C/projects/sas/code/pmml/pmml_header_open.sas",
+		"/C/projects/Bulk_Create_PMML/pmml_models/GWO_02.pmml",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_scorecard_models_pmml.sas",
+		"/C/projects/sas/code/stubs/external_file_output.sas",
+		"/C/projects/sas/data/pmml/TEST_OUT.pmml",
+		"/C/projects/sas/code/stubs/external_file_output.lst",
+		"/C/projects/sas/code/stubs/external_file_output.log",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_rrm_pmml.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_dynamic_acl_pmml.sas",
+		"/C/projects/sas/code/stubs/create_sc_pmml.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_scorecard_pmml.sas",
+		"/C/projects/sas/code/stubs/passing_macro_vars_between_macros.sas",
+		"/C/projects/sas/code/stubs/passing_macro_vars_between_macros.log",
+		"/C/projects/sas/code/stubs/create_sc_pmml.log",
+		"/C/projects/sas/code/file_conversions/get_sas_dss_from_excel_files.sas",
+		"/C/projects/sas/code/file_conversions/get_sas_dss_from_excel_files.log",
+		"/C/projects/sas/code/file_conversions/get_sas_dataset_from_excel_files.log",
+		"/C/projects/sas/code/pmml/pmml_header_close.sas",
+		"/C/projects/sas/code/file_conversions/get_sas_dataset_from_excel_files.sas",
+		"/C/projects/sas/code/pmml/pmml_header_open.lst",
+		"/C/projects/sas/code/pmml/pmml_header_open.log",
+		"/C/projects/RM_Bscore/pmml/pmml/test_out.pmml",
+		"/C/projects/sas/data/models/pmml/scorecard_model.pmml",
+		"/C/projects/sas/data/models/pmml/RM_B_score.pmml",
+		"/C/projects/Bulk_Create_PMML/pmml_models/NAL_RRM_12_100_1_1.pmml",
+		"/C/projects/Bulk_Create_PMML/pmml_models/DELQ_RRM_12_55_40_5_1_1.pmml",
+		"/C/projects/sas/code/pmml/tdb_pmml_header_open.sas",
+		"/C/projects/sas/code/pmml/tdb_pmml_header_close.sas",
+		"/C/projects/RM_Bscore/pmml/sas/RM_B_score.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/create_pmml_script.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_model_pmml.sas",
+		"/C/projects/sas/code/RM_B_score.sas",
+		"/C/projects/sas/code/file_conversions/get_sas_dataset_from_excel.sas",
+		"/C/projects/sas/code/file_conversions/get_sas_program_from_pmml.log",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_rrm_models_pmml.sas",
+		"/C/projects/sas/data/models/pmml/scorecard_model.pmml.xml",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_acl_models_pmml.sas",
+		"/C/projects/sas/code/bulk_pmml_generator/cpp_create_dynamic_acl_pmml.log",
+		"/C/projects/sas/code/file_conversions/get_sas_dataset_from_excel.log",
+		"/C/projects/sas/code/bulk_pmml_generator/autoexec_pmml.sas",
+		"/C/projects/Bulk_Create_PMML/sas_files/cpp_create_model_pmml.sas",
+		"/C/projects/Bulk_Create_PMML/sas_files/cpp_create_rrm_pmml.sas",
+		"/C/projects/Bulk_Create_PMML/sas_files/cpp_create_rrm_models_pmml.sas",
+		"/C/projects/Bulk_Create_PMML/sas_files/cpp_create_dynamic_acl_pmml.sas",
+		"/C/projects/Bulk_Create_PMML/sas_files/cpp_create_acl_models_pmml.sas",
+		"/C/projects/Bulk_Create_PMML/sas_files/create_pmml_script.sas",
+		"/C/projects/sas/SAS.sublime-workspace",
+		"/C/projects/sas/code/file_conversions/get_sas_dataset_from_excel.lst",
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/User/SAS_Package.sublime-settings",
+		"/C/projects/sas/code/stubs/add_slash_to_end_of_filepath.sas",
+		"/C/projects/sas/code/stubs/add_slash_to_end_of_filepath.log",
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/SVN/Default (Windows).sublime-keymap",
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/projects/sas/README.md",
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Cache/C#/Build.sublime-syntax.cache",
+		"/C/projects/sas/.gitattributes",
+		"/C/projects/sas/code/file_conversions/get_file_type.sas",
+		"/C/projects/sas/data/pmml/decision_tree.pmml",
+		"/C/projects/sas/data/pmml/tdaf_num_700.pmml",
+		"/C/projects/sas/data/pmml/DELQ_RRM_12_60_30_10_1_1.pmml",
+		"/C/projects/sas/code/svn_macros/svn_commit.sas",
+		"/C/projects/sas/code/svn_macros/svn_delete.sas",
+		"/C/projects/sas/code/svn_macros/svn_add.sas",
+		"/C/projects/sas/code/os_interactions/EXECUTE_OS_CMD.sas",
+		"/C/projects/sas/code/stubs/LOOP_STUB.sas",
+		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/tdaf_num_700.pmml",
+		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/target_cc_tm_oldpl_3.pmml",
+		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/target_cc_accts_ma_visa_6.pmml",
+		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/decision_tree.pmml"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5JUL2016",
+			" TO PMML STRING",
+			" TO PMML STRING ",
+			" APPEND ",
+			"I_CNT",
+			"SCORECARD_MODELS_DSN",
+			"SC_MODELS",
+			"PUT",
+			"all",
+			"ALL",
+			"_ALL_",
+			"get_pmml_scorecard_characteristics",
+			"department",
+			":OUTPUT_",
+			"feature",
+			"op_feature",
+			"PMML",
+			"TRG_",
+			"SRC_",
+			"WORK.PMML",
+			"PMML_DSN",
+			" PMML ",
+			"_&J.",
+			"_&J.)",
+			"PMML_DSN",
+			"APPEND",
+			"I_CNT",
+			"MINING_",
+			"  TO ",
+			"APPEND",
+			"MINING_SCHEMA",
+			"&&MODEL_&I._TRG_VAR",
+			"&&MODEL_&I._TRG_DATATYPE",
+			" - only used in output section */",
+			"&&MODEL_&I._TRG_OP_FEATURE",
+			"&&MODEL_&I._TRG_OP_TYPE",
+			"&&MODEL_&I._TRG_VAR",
+			"&&MODEL_&I._TRG_DISPLAY_NM",
+			"&&MODEL_&I._PRODUCT",
+			"&&MODEL_&I._TYPE",
+			"&&MODEL_&I._model_type",
+			"&&MODEL_&I._model",
+			"&&MODEL_&I._TYPE",
+			"&&MODEL_&I._MODEL_TYPE",
+			"_MODEL_TYPE",
+			"_TRG_OP_TYPE",
+			"TRG_OP_FEATURE",
+			"_TRG_DATATYPE",
+			"_TRG_DISPLAY_NM",
+			"_TRG_VAR",
+			"PMML = CATS(",
+			"CATS(",
+			"CATX(",
+			"catx(",
+			"%str(%'))",
+			"PMML||",
+			". ",
+			"\";\n",
+			"DATA_DICTIONARY",
+			"MINING_DISPLAY_NM",
+			"INPUT_",
+			"Decisions",
+			"des",
+			"INPUT_DSN",
+			"get_pmml_data_dictionary",
+			"CLOSE_TAGS_LIST",
+			"os_type",
+			"OS_CMD_OUTPUT",
+			"SC_MODELS",
+			"SC_TARGET_VARS",
+			"display",
+			"usage",
+			"&&model_&i.",
+			"output;",
+			"list",
+			"rc",
+			"INPUT_NM_&J.",
+			"input",
+			"_INPUT_DISPLAY_NM_&",
+			"_INPUT_DISPLAY_NM_",
+			"psep",
+			"PMML_HEADER_OPEN",
+			"EXAMMPLE_APP_NAME",
+			"modelflag",
+			"flag",
+			"fl",
+			"flg",
+			"reasoncode",
+			"&&MODEL_&I._TRG_VAR",
+			"TARGET_VAR_FLG",
+			"n_model_&i._inputs",
+			"N_MODEL_&I._INPUTS",
+			"N_MODEL_",
+			"I_CNT",
+			"TARGET",
+			"&&MODEL_&I._TRG_VAR",
+			"TARGET_NM",
+			"target",
+			"rc",
+			"&n_models",
+			"&&MODEL_&I._VARIABLE_NM",
+			"&&MODEL_&I._NAME",
+			"TARGET",
+			"TARGET_FIELD",
+			"_input_nm_",
+			"pmml = %unquote(%str(%')<Characteristic>%str(%')); output;",
+			"pmml = %unquote(%str(%')</Characteristic>%str(%')); output;",
+			"flg",
+			"active",
+			"overallScore",
+			"Decisions",
+			"get_pmml_data_dictionary",
+			"&gt",
+			"&gt.",
+			"&lt.",
+			"usagetype",
+			"<Output",
+			"Output",
+			"mob",
+			"&gt",
+			"&gt.",
+			"&lt.",
+			"&LT.",
+			"purt",
+			"LIST INPUT VARIABLES",
+			"get_scorecard_pmml",
+			"get_pmml_scorecard",
+			"create_sc_pmml"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"7JUL2016",
+			"",
+			"I",
+			"GET_PMML_SC_CHARACTERISTICS",
+			":RC_",
+			"TRG_FILE",
+			"",
+			"_&I.",
+			"_&I.)",
+			"ADD",
+			"I",
+			"OUTPUT_",
+			" TO ",
+			"",
+			"OUTPUT",
+			"PMML = CATX(' ',",
+			"CAT(",
+			"CATS(",
+			"cats(",
+			"%str(%')))",
+			"CATX(PMML, ",
+			"MINING_SCHEMA",
+			"MINING_",
+			"MODEL_DSN",
+			"get_pmml_mining_schema",
+			"PMML_CLOSE_TAGS_LST",
+			"CLOSE_TAGS_LST",
+			"OS_TYPE",
+			"&SCORECARD_MODELS_DSN.",
+			"SCORECARD_TRG_VARS",
+			"&MODEL_NM.",
+			"OUTPUT;",
+			"GET_PMML_HEADER_OPEN",
+			"EXAMPLE_APP_NAME",
+			"RC_CNT",
+			"TRG",
+			"TARGET_VAR",
+			"&&MODEL_&I._NM",
+			"pmml = \"</Characteristic>\"; output;",
+			"get_pmml_output_fields",
+			">",
+			"<",
+			">",
+			"<",
+			"< ",
+			"put",
+			"&X. ",
+			"get_pmml_scorecard",
+			"get_scorecard_pmml",
+			"I_CNT",
+			"INPUT_CNT",
+			" _",
+			" ",
+			"&I_CNT.",
+			"%STRIP(&I_CNT.)",
+			"I_CNT",
+			"NUM_INPUTS",
+			"&&MODEL_&I._NAME",
+			"&&MODEL_&I._TYPE",
+			"model_",
+			", ",
+			"PMML_HEADER",
+			"; output;",
+			"_NM",
+			"get_sas_ds_from_excel",
+			"GET_SAS_DSS_FROM_EXCEL_FILES",
+			"pmml_header_close",
+			"SC_MODELS",
+			"SRC_DIR_PATH",
+			"TRG_DIR_PATH",
+			"TRG_DIR",
+			"SRC_DIR",
+			"create_sc_pmml",
+			"tdb_pmml_header",
+			"output;",
+			">",
+			"<",
+			"output;",
+			"PMML_DIR_PATH",
+			"cpp_create_scorecard_pmml",
+			"sc_pmml_parms_file",
+			"_parms",
+			"parms",
+			"cpp_create_scorecard_models_pmml",
+			"param",
+			"1",
+			"SAS_DS_NAME",
+			"SRC_DIR_PATH",
+			"FILE_NAME",
+			"&EXCEL_FILE_NAME.",
+			"TAB_NAME",
+			"EXCEL_FILE_NAME",
+			"GET_SAS_DATASETS_FROM_EXCEL_FILES",
+			"EXCEL_DIR_PATH",
+			"add_slash_to_end_of_filepath",
+			"DIR_PATH",
+			"LIST_DLM",
+			"SAS",
+			"EXCEL",
+			"get_sas_dataset_from_excel",
+			"PMML_FILE_NAMES",
+			"get_sas_program_from_pmml",
+			"COMMIT",
+			"execute_os_cmd",
+			"svn_add",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SAS Programming/SAS.sublime-build",
+	"project": "linux_aliases_for_windows.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"exe",
+				"sas\\code\\os_interactions\\execute_os_cmd.sas"
+			],
+			[
+				"ming",
+				"sas\\code\\pmml\\get_pmml_mining_schema.sas"
+			],
+			[
+				"sas",
+				"sas\\SAS.sublime-project"
+			],
+			[
+				"charac",
+				"sas\\code\\pmml\\get_pmml_sc_characteristics.sas"
+			],
+			[
+				"miin",
+				"sas\\code\\pmml\\get_pmml_mining_schema.sas"
+			],
+			[
+				"data",
+				"sas\\code\\pmml\\get_pmml_data_dictionary.sas"
+			],
+			[
+				"mining",
+				"sas\\code\\pmml\\get_pmml_mining_schema.sas"
+			],
+			[
+				"get_sas_program_from_pmml",
+				"sas\\code\\file_conversions\\get_sas_program_from_pmml.sas"
+			],
+			[
+				"output",
+				"sas\\code\\pmml\\get_pmml_output_fields.sas"
+			],
+			[
+				"header",
+				"sas\\code\\pmml\\get_pmml_header_open.sas"
+			],
+			[
+				"get_pmml_data_dictionary",
+				"sas\\code\\pmml\\get_pmml_data_dictionary.sas"
+			],
+			[
+				"example",
+				"sas\\data\\pmml\\scorecard_pmml_example.pmml"
+			],
+			[
+				"getheader",
+				"sas\\code\\pmml\\get_pmml_header_open.sas"
+			],
+			[
+				"get_pmml_scorecard_characteristics",
+				"sas\\code\\pmml\\get_pmml_scorecard_characteristics.sas"
+			],
+			[
+				"get_pmml_output_fields",
+				"sas\\code\\pmml\\get_pmml_output_fields.sas"
+			],
+			[
+				"headerop",
+				"sas\\code\\pmml\\get_pmml_header_open.sas"
+			],
+			[
+				"xml",
+				"Bulk_Create_PMML\\sas_files\\autoexec_pmml.sas"
+			],
+			[
+				"scorecardexample.pmml",
+				"sas\\data\\pmml\\scorecard_pmml_example.pmml"
+			],
+			[
+				"get_pmml_close_tags",
+				"sas\\code\\pmml\\get_pmml_close_tags.sas"
+			],
+			[
+				"scorecard_.pmml",
+				"sas\\data\\pmml\\scorecard_pmml_example.pmml"
+			],
+			[
+				"df_from",
+				"sas\\code\\file_conversions\\get_sas_ds_from_excel.sas"
+			],
+			[
+				"loopstub",
+				"sas\\code\\stubs\\loop_stub_2.sas"
+			],
+			[
+				"loop",
+				"sas\\code\\stubs\\loop_stub.sas"
+			],
+			[
+				"test_out",
+				"sas\\data\\pmml\\test_out.pmml"
+			],
+			[
+				"test",
+				"sas\\data\\pmml\\test_out.pmml"
+			],
+			[
+				"get_sas_ds_from_excel.sa",
+				"sas\\code\\file_conversions\\get_sas_ds_from_excel.sas"
+			],
+			[
+				"get_sas_ds_from_excel",
+				"sas\\code\\file_conversions\\get_sas_ds_from_excel.log"
+			],
+			[
+				".pmml",
+				"Bulk_Create_PMML\\pmml_models\\GWO_02.pmml"
+			],
+			[
+				"pmml",
+				"sas\\code\\pmml\\pmml_header_open.sas"
+			],
+			[
+				"pmml_header_open",
+				"sas\\code\\pmml\\pmml_header_open.sas"
+			],
+			[
+				"open",
+				"sas\\code\\pmml\\pmml_header_open.sas"
+			],
+			[
+				"get_sas_ds_from",
+				"sas\\code\\file_conversions\\get_sas_ds_from_excel.sas"
+			],
+			[
+				"ignore",
+				"sas\\.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 460.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
