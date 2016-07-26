@@ -1,3 +1,3 @@
 @ECHO off
 REM SMELLY WINDOWS EQUIVALENT OF THE LINUX MASTER RACE (TM) COMMAND: pwd
-echo %cd%
+findstr /spin /c:"$$1" 

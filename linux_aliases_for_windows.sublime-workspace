@@ -154,6 +154,20 @@
 	],
 	"file_history":
 	[
+		"/C/projects/linux_aliases_for_windows/wc.bat",
+		"/C/projects/linux_aliases_for_windows/grep.bat",
+		"/C/projects/linux_aliases_for_windows/cp.bat",
+		"/C/projects/linux_aliases_for_windows/rm.bat",
+		"/C/projects/linux_aliases_for_windows/pwd.bat",
+		"/C/projects/linux_aliases_for_windows/ls.bat",
+		"/C/Windows/ls.bat",
+		"/C/Windows/rm.bat",
+		"/C/Windows/pwd.bat",
+		"/C/Windows/cp.bat",
+		"/C/projects/linux_aliases_for_windows/README.md",
+		"/C/projects/linux_aliases_for_windows/copy_linux_aliases_to_windows.bat",
+		"/C/projects/linux_aliases_for_windows/del.bat",
+		"/C/projects/linux_aliases_for_windows/copy_linux_aliases_to_windows",
 		"/C/projects/sas/code/bulk_pmml_generator/get_pmml_scorecard.sas",
 		"/C/projects/sas/data/pmml/scorecard_pmml_example.pmml",
 		"/C/projects/sas/data/pmml/scorecard_model.pmml",
@@ -267,21 +281,7 @@
 		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/C/software/sas/Sublime Text Build 3114 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/projects/sas/README.md",
-		"/C/software/sas/Sublime Text Build 3114 x64/Data/Cache/C#/Build.sublime-syntax.cache",
-		"/C/projects/sas/.gitattributes",
-		"/C/projects/sas/code/file_conversions/get_file_type.sas",
-		"/C/projects/sas/data/pmml/decision_tree.pmml",
-		"/C/projects/sas/data/pmml/tdaf_num_700.pmml",
-		"/C/projects/sas/data/pmml/DELQ_RRM_12_60_30_10_1_1.pmml",
-		"/C/projects/sas/code/svn_macros/svn_commit.sas",
-		"/C/projects/sas/code/svn_macros/svn_delete.sas",
-		"/C/projects/sas/code/svn_macros/svn_add.sas",
-		"/C/projects/sas/code/os_interactions/EXECUTE_OS_CMD.sas",
-		"/C/projects/sas/code/stubs/LOOP_STUB.sas",
-		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/tdaf_num_700.pmml",
-		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/target_cc_tm_oldpl_3.pmml",
-		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/target_cc_accts_ma_visa_6.pmml",
-		"/C/Users/celine.RISKASSESSMENT/Documents/PMML/decision_tree.pmml"
+		"/C/software/sas/Sublime Text Build 3114 x64/Data/Cache/C#/Build.sublime-syntax.cache"
 	],
 	"find":
 	{
@@ -752,6 +752,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\projects\\sas\\SAS.sublime-project"
+			],
+			[
+				"tdb",
+				"C:\\projects\\TD\\TDB.sublime-project"
+			]
 		],
 		"width": 570.0
 	},
